@@ -33,14 +33,14 @@ Note the sequence as they are very important and must be exactly as ordered.
 
 3) After the encryption profiles are set up, they can be called upon by the PeopleCode Crypt class.
 
-### Step 2: Import custom menu and folder
+### Step 2: Import the custom menu and folder
 This step will import the custom menu and folder
 1. Launch Application Designer 
 2. click Tools, Copy Project, From File...   
 3. click Select, choose MXM_CUSTOM_INIT
 4. click Copy
 
-### Step 3: Import Base64 project
+### Step 3: Import the project
 This step will import the Base64 project 
 1. click Tools, Copy Project, From File...   
 2. click Select, choose MXM_BASE64
