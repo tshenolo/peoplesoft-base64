@@ -41,7 +41,7 @@ This step will import the custom menu and folder
 4. click Copy
 
 ### Step 3: Import Base64 project
-This step will import the Base64 project
+This step will import the Base64 project 
 1. click Tools, Copy Project, From File...   
 2. click Select, choose MXM_BASE64
 3. click Copy
