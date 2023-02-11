@@ -89,6 +89,7 @@ Type: Derived/Work
 | SUBMIT_BTN | Char | 1 | Submit Button | Submit |         
 | DESCRLONG | Long | 0 | Description | Descr |    
 
+   
 Field Name: MXM_BASE64_ALG  
 Translate values
 
@@ -98,6 +99,7 @@ Translate values
 | B64E | Base 64 Encode | Encode |
 
 
+  
 ### Pages
 
 Page: MXM_BASE64   
@@ -132,7 +134,7 @@ If MXM_BASE64.MXM_BASE64_ALG.Value = "B64D" Then
 End-If;
 ```
 
-## Component
+### Component
 
 | Component | MXM_BASE64 | 
 | ------| --------- |
@@ -154,7 +156,7 @@ End-If;
 | Permission Lists | PTPT1200 |
 | Actions | Add, Update/Display | 
 
-## Notes
+### Notes
 Oracle Support Doc ID 790153.1  
 
 Example Code:
