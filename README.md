@@ -46,6 +46,16 @@ This step will import the Base64 project
 2. click Select, choose MXM_BASE64
 3. click Copy
 
+### Step 3. Build Project 
+Note: Perform this step if the project contains SQL Tables otherwise skip it
+1.	Click Build, Project...
+2.	Check the following options:  
+    a.	Create Table  
+    b.	Create Indexes  
+    c.	Create Views  
+    d.	Execute and build script.  
+3.	Click Build
+
 ### Step 4. Register the component
 1. Open the component
 2. Click Tools, Register Component...
@@ -71,7 +81,7 @@ This step will import the Base64 project
 ### Records
 			
 Record: MXM_BASE64  
-
+Type: Derived/Work
 | Field | Type | Length | Long Descr | Short Descr |
 | ------ | --------- | --------- | --------- | --------- | 
 | DESCRLONG1 | Long | 0 | Description | Descr |         
